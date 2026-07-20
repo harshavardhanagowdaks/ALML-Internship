@@ -10,6 +10,14 @@ This repository contains my daily work completed during the AI & Machine Learnin
 - GitHub
 - Jupyter Notebook
 
+## Project Structure
+
+- Day1
+- Day2
+- Dataset
+- Notebook
+- Screenshots
+
 ## Intern
 
 Harshavardhana Gowda KS
