@@ -1,23 +1,75 @@
 # AI & ML Internship
 
-This repository contains my daily work completed during the AI & Machine Learning Internship at Codomax Digital Solutions.
+## 👨‍💻 Intern
 
-## Technologies Used
+**Name:** Harshavardhana Gowda KS
+
+## 📅 Duration
+
+14 Days
+
+## 📖 Description
+
+This repository contains all the work completed during my AI & Machine Learning Internship.
+
+Throughout this internship, I learned:
+
+- Python Programming
+- NumPy
+- Pandas
+- Data Cleaning
+- Data Visualization
+- Machine Learning
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- Random Forest
+- Model Evaluation
+- Streamlit Deployment
+
+## 📂 Project Structure
+
+Day1 – Python Basics
+
+Day2 – Python Programming
+
+Day3 – NumPy
+
+Day4 – Pandas
+
+Day5 – Data Cleaning
+
+Day6 – Data Visualization
+
+Day7 – Linear Regression
+
+Day8 – Model Evaluation
+
+Day9 – Logistic Regression
+
+Day10 – Decision Tree
+
+Day11 – Random Forest
+
+Day12 – ML Project
+
+Day13 – Streamlit App
+
+Day14 – Documentation
+
+## 🛠 Technologies
 
 - Python
-- VS Code
-- Git
-- GitHub
-- Jupyter Notebook
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Streamlit
 
-## Project Structure
+## 📸 Screenshots
 
-- Day1
-- Day2
-- Dataset
-- Notebook
-- Screenshots
+Screenshots of every day's work are available inside the Screenshots folder.
 
-## Intern
+## 🚀 Outcome
 
-Harshavardhana Gowda KS
+This internship helped me understand the fundamentals of Artificial Intelligence and Machine Learning and strengthened my Python programming skills.
