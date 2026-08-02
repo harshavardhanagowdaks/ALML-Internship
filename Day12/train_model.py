@@ -32,3 +32,4 @@ prediction = model.predict(X_test)
 accuracy = accuracy_score(y_test,prediction)
 
 print("Accuracy:",accuracy)
+# Day 12 project completed successfully
